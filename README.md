@@ -1,4 +1,11 @@
 # HomeLab
-This is my personal home lab I use for testing, messing around and learning. Anyone reading this I give you permission to hack, attack, pen test, probe, scan my network WITH THE EXPLICIT CONDITION that you tell me what/ how you did it, another condition is not leaking/selling/trading/exposing any PII to any other 3rd party that is not myself. This includes but is not limited to (passwords, user account credentials, banking/financial information, medical records, etc.) If you have any questions for myself you can reach me at blackwaters.online@gmail.com
+Public Testing Invitation
+This is my personal home lab for testing, experimenting, and learning.
+You have permission to perform security testing (hacking, scanning, probing, etc.) against this network under these conditions:
+  1)Full disclosure — You must tell me exactly what you did, how you did it, and what you found.
+  2)No data leaks — Do not share, sell, trade, or expose any personal data (PII) you discover. This includes, but is not limited to, passwords, account credentials, financial info, medical records, etc.
+  3)No damage — Do not intentionally disrupt, destroy, or make the systems unusable.
+  4)Non-commercial only — No part of this may be used for paid work, bounty hunting, or malicious purposes.
 
-The public IP for my Network is: 50.103.128.207
+Questions or reports:blackwaters.online@gmail.com
+Target IP: 50.103.128.207

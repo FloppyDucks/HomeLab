@@ -20,3 +20,4 @@ Target IP: 50.103.128.207
 # Tor Nodes
 I have 8 relays running on 4 nodes (2 relays per node). I originally had all 8 relays on one Pi, however after discussing with the tor community it seems like the connection speed was abysmal compared to spreading out my relays.
 
+![My Network](.github/images/tor-relay.png)

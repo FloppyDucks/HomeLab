@@ -16,3 +16,7 @@ Questions or reports:blackwaters.online@gmail.com
 Target IP: 50.103.128.207
 
 ![My Network](.github/images/My-Network.png)
+
+# Tor Nodes
+I have 8 relays running on 4 nodes (2 relays per node). I originally had all 8 relays on one Pi, however after discussing with the tor community it seems like the connection speed was abysmal compared to spreading out my relays.
+

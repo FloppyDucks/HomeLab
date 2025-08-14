@@ -36,6 +36,7 @@ _Goal: once my domain has around 10 users and is set up with an IT/ HR/ Sales de
 _Challenge: make my phish look convincing enough to make it look like its coming within the domain, modern outlook, exchange servers will alert users to external emails which can raise alarms. If we can make users think this is internal we stand a better chance of blowing past their radar_
 
 _Challenge: learn how to set up an exchange server....IDEALLY for free, if not i may have to spend a few and or find an open source alternative_
+![My Network](.github/images/DC01.png)
 
 # Ollama/ self hosted LLM
 
